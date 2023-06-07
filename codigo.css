@@ -1,0 +1,47 @@
+body {
+    background-color: #708090;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+}
+
+h1  {
+    background-color: blanchedalmond;
+    display: block;
+    margin-bottom: 30px;
+}
+
+h2  {
+    background-color: blanchedalmond;
+    display: inline-block;
+    margin-bottom: 30px;
+}
+h3  {
+    background-color: blanchedalmond;
+    margin-bottom: 30px;
+}
+
+#accountSelection {
+    display: block;
+    color: #000;
+}
+
+#actions {
+    display: none;
+}
+
+#inputAmount {
+    display: none;
+    margin-top: 20px;
+    font-size: 18px;
+    padding: 5px;
+}
+
+#message {
+    margin-top: 20px;
+    font-size: 18px;
+}
+#mensajeDesp {
+    margin-top: 20px;
+    font-size: 18px;
+}
